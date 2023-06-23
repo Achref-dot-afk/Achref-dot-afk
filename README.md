@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Achref Habli</h1>
 <h3 align="center">A passionate web developer and DevOps Enthusiast</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=achref-dot-afk" alt="achref-dot-afk" /></a> </p>
-
 - 🌱 I’m looking to collaborate on **anything that can make life better**
-
-- ⚡ IT Quote : ["Clean code always looks like it was written by someone who cares." — Robert C. Martin]("Clean code always looks like it was written by someone who cares." — Robert C. Martin)
 
 - 💬 Ask me about **anything in relation with IT .**
 
 - 📫 How to reach me **achrefh1bli22@gmail.com**
+
+- ⚡ IT Quote : **"Clean code always looks like it was written by someone who cares." — Robert C. Martin**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
